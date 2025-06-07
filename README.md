@@ -1,3 +1,4 @@
+![logo](https://github.com/aryanrn007/aryanrn007/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Aaryan Gajgeshwar</h1>
 <h3 align="center">🎓 A CSE student at DYPCET, learning, building, and dreaming big in tech.</h3>
 
